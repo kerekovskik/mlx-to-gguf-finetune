@@ -1,0 +1,5 @@
+*.npz
+*.gguf
+*-MLX
+llama.cpp
+*venv
